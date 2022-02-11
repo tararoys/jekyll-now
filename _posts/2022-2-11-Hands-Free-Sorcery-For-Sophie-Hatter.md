@@ -2,6 +2,9 @@
 layout: post
 title: Accomodating Arthritis: Real Answers to Novel Questions from Fictional Characters
 ---
+
+# Accomodating Arthritis
+
 [Support ataraxy on ko-fi](https://ko-fi.com/R5R53E8FJ)
 
 Dear Technomancer,
