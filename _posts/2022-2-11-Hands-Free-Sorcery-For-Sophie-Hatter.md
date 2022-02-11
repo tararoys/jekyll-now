@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting Started With Hands-Free Computer Sorcery
+title: Novel Questions: Accomodating Arthritis
 ---
 
 # Accomodating Arthritis
