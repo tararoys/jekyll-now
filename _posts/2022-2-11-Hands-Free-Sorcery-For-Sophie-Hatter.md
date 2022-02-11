@@ -3,6 +3,8 @@ layout: post
 title: Accomodating Arthritis
 ---
 
+From my blog series 
+
 Dear Technomancer,
 
 I have arthritis.  How do I use my computer without my hands?
