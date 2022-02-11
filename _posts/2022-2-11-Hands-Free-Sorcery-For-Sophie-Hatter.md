@@ -3,9 +3,7 @@ layout: post
 title: Novel Questions: Accomodating Arthritis
 ---
 
-# Accomodating Arthritis
-
-### Novel Questions: Real Problems from Fictional Fantasy Characters
+### Real Problems from Fictional Fantasy Characters
 
 
 Dear Technomancer,
@@ -29,7 +27,7 @@ The simplest free options are the ones that come pre-installed on your computer.
 
 #### Windows
 
-If you have a Windows computer, Windows has a built-in Windows Speech Recognition.  This gives you moderate control over your computer, and since it's already installed, there is no need to download and install it.  N
+If you have a Windows computer, Windows has a built-in Windows Speech Recognition.  This gives you moderate control over your computer, and since it's already installed, there is no need to download and install it. 
 
 To turn it on, go to the Windows search bar and type 'Windows Speech Recognition.'  It will launch the recognition app.  The first time you do it, it will take you through a setup wizard.  
 
