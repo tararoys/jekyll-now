@@ -4,8 +4,8 @@ title: Novel Questions: Accomodating Arthritis
 ---
 
 # Novel Questions: Accomodating Arthritis
-## Real Problems from Fictional Fantasy Characters
 
+## Real Problems from Fictional Fantasy Characters
 
 Dear Technomancer,
 
