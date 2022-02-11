@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Accomodating Arthritis
+title: Accomodating Arthritis: Real Answers to Novel Questions from Fictional Characters
 ---
+
+
 
 From my blog series 
 
