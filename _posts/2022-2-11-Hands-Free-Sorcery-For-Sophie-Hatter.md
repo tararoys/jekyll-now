@@ -1,11 +1,7 @@
 ---
 layout: post
-title: Novel Questions: Accomodating Arthritis
+title: Accomodating Arthritis
 ---
-
-# Novel Questions: Accomodating Arthritis
-
-## Real Problems from Fictional Fantasy Characters
 
 Dear Technomancer,
 
