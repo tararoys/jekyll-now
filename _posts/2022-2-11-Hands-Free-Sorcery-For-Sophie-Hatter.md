@@ -2,7 +2,7 @@
 layout: post
 title: Accomodating Arthritis: Real Answers to Novel Questions from Fictional Characters
 ---
-
+[Support ataraxy on ko-fi](https://ko-fi.com/R5R53E8FJ)
 
 
 From my blog series 
@@ -93,4 +93,4 @@ Ataraxy the Technomancer
 
 Note: Sophie Hatter is copyrighted by Diana Wynne Jones, and I unreservedly recommend reading her curmudgeonly adventures in the book "Howl's Moving Castle." Five of five stars from me.
 
-
+[Support ataraxy on ko-fi](https://ko-fi.com/R5R53E8FJ)
