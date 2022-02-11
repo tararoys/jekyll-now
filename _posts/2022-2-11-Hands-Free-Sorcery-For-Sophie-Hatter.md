@@ -4,9 +4,6 @@ title: Accomodating Arthritis: Real Answers to Novel Questions from Fictional Ch
 ---
 [Support ataraxy on ko-fi](https://ko-fi.com/R5R53E8FJ)
 
-
-From my blog series 
-
 Dear Technomancer,
 
 I have arthritis.  How do I use my computer without my hands?
