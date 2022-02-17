@@ -3,6 +3,8 @@ layout: post
 title:  6 Ways To Persuade Your iPhone to Read You Books for Umegat of Chalion
 ---
 
+[Support ataraxy on ko-fi](https://ko-fi.com/R5R53E8FJ)
+
 Dear Technomancer, 
 
 I recently took a blow to the head that stole my ability to read. I can see the marks on the paper, but I can no longer understand them. I used to read and write five languages fluently, but now I can't read or write anything. The Mother's physician says with time, the damage might heal, but I can't bear the thought of endless days without my beloved books. My boyfriend can't read them aloud to me because he has no tongue. I have an iPad, but while I can see the icons and know what they are supposed to do, I can't read any of the words. Help!
@@ -87,6 +89,11 @@ I wish you the best in your recovery, however slow or speedy that will be, and t
 
 Sincerely,
 Ataraxy the Technomancer
+
+P.S.  I highly recommend reading the Curse of Chalion by Lois McMaster Bujold for its high fantasy worldbuilding, outstanding characterization, realistic depictions of chronic illness, sexism, inequality, and the best use of Deux Ex Machina interventions in a world where Gods exist and take an active role in events.
+
+[Support ataraxy on ko-fi](https://ko-fi.com/R5R53E8FJ)
+
 
 
 
