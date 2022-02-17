@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Accomodating Arthritis: Real Answers to Novel Questions from Fictional Characters
+title: Controlling a Computer without Hands for Sophie Hatter 
 ---
 
-# Accomodating Arthritis
+# Controlling a Computer without Hands for Sophie Hatter 
 
 [Support ataraxy on ko-fi](https://ko-fi.com/R5R53E8FJ)
 
