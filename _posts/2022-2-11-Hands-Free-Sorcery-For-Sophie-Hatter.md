@@ -3,8 +3,6 @@ layout: post
 title: Controlling a Computer without Hands for Sophie Hatter 
 ---
 
-# Controlling a Computer without Hands for Sophie Hatter 
-
 [Support ataraxy on ko-fi](https://ko-fi.com/R5R53E8FJ)
 
 Dear Technomancer,
