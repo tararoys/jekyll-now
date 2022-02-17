@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  6 Ways To Persuade Your iPhone to Read You Books for Umegat of Chalion
