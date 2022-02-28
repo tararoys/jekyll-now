@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Getting Started With the Talon Alphabet
+title: Getting Started With Talon Symbols
 ---
 
-Intro to using Talon commands to spell letters from the English alphabet. 
+Intro to using Talon magic words to type the symbols from the 101 American Standard (Querty) keyboard. 
 
 Support ataraxy on ko-fi.com/ataraxy if you can afford the price of a coffee!
 
