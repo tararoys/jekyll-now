@@ -3,7 +3,7 @@ layout: post
 title: Getting Started With The Talon Alphabet
 ---
 
-## Learning Talon's Magic Words for Typing Letters Of The English Alphabet
+Learning Talon's magic words for typing letters of the English alphabet.
 
 Support ataraxy on ko-fi.com/ataraxy if you can afford the price of a coffee!
 
