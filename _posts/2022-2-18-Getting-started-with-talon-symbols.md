@@ -13,7 +13,11 @@ For introductory Talon tutoring and consulting, [scheudule an apointment.](https
 
 The next step to replace a keyboard with voice commands is learning how to type special characters.  
 
-Symbols look like this !@#$%^&)(][}{|+:;"'><?/\  (This list is not all of them on a standard keyboard, but enough to give you an idea.)  
+Symbols look like this
+
+!@#$%^&)(][}{|+:;"'><?/\  
+
+(This list is not all of them on a standard keyboard, but enough to give you an idea.)  
 
 Symbols are needed in order to punctuate sentences and to write programming languages. It's time to learn the names of Talon's symbols. 
 
