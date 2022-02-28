@@ -1,4 +1,4 @@
-   ---
+---
 layout: post
 title: Getting Started With Navigating the Windows Operating System
 ---
