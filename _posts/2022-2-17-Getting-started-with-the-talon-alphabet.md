@@ -3,7 +3,7 @@ layout: post
 title: Getting Started With The Talon Alphabet
 ---
 
-# Getting Started With the Talon Alphabet
+support ataraxy on ko-fi.com/ataraxy
 
 I'm going to practice spelling things with Talon!
 
