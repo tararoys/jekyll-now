@@ -3,7 +3,7 @@ layout: post
 title: Getting Started With The Talon Alphabet
 ---
 
-support ataraxy on ko-fi.com/ataraxy
+Support ataraxy on ko-fi.com/ataraxy if you can afford the price of a coffee!
 
 I'm going to practice spelling things with Talon!
 
