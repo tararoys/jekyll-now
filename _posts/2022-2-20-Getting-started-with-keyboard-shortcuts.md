@@ -3,6 +3,8 @@ layout: post
 title: Getting Started With Keyboard Shortcuts
 ---
 
+Avery basic introduction to using talon magic words to simulate keyboard shortcuts.
+
 Support ataraxy on ko-fi.com/ataraxy if you can afford the price of a coffee!
 
 For introductory Talon tutoring and consulting, [scheudule an apointment.](https://calendly.com/tara-roys/60min?month=2022-03) Rates are $50/hr for those whom $50/hr is an snap decision to make and free for those whom it is a hardship. 
