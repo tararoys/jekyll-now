@@ -26,6 +26,15 @@ This tutorial works best if you have a textarea to type into. You can do this tu
 
 The most important aspect of this walkthrough is to learn where to look up the commands for symbols.  There are two places these can be looked up.  The `help symbols` menu lists commands for individual characters.  The `help context symbols` menu lists common combinations of symbols.
 
+![help symbols menu page 1](/assets/2022_04_30T21_19_15__Notepad.png)
+![help symbols menu page 2](/assets/2022_04_30T21_19_41__Notepad.png)
+![help symbols menu page 3](/assets/2022_04_30T21_19_57__Notepad.png)
+![help symbols menu page 4](/assets/2022_04_30T21_22_14__Notepad.png)
+
+![help context symbols](/assets/2022_05_01T06_30_19__Notepad.png)
+![help contact symbols](/assets/2022_05_01T06_31_32__Notepad.png)
+![help context symbols](/assets/2022_05_01T06_32_35__Notepad.png)
+![help context symbols](/assets/2022_05_01T06_33_23__Notepad.png)
 # English Puncutation Characters  
 
 Let's start with English punctuation characters. See what happens when you say `period` `comma` `exclamation point` `question` `colon` `semicolon`  into a textarea. 
