@@ -25,7 +25,7 @@ The advantage of these commands is that this is a simple, introductory way to ge
 
 The disadvantage is that spelling things out is mentally exhausing even if you know the talon phonetic alphabet, and doing this method as your main way of dictating code often leads to vocal strain, which is a demoralizing new injury for many people who use Talon because their hands are messed up. 
 
-![help alphabet menu]({{"/assets/2022_04_30T21_14_58__Notepad.png" | relative_url }})
+![help alphabet menu]({{"/assets/2022_04_30T21_14_58__Notepad.png" | absolute_url }})
 
 ![help special keys menu](/assets/2022_04_30T21_24_05__Notepad.png)
 ![help symbols menu page 1](/assets/2022_04_30T21_19_15__Notepad.png)
