@@ -12,8 +12,186 @@ For introductory Talon tutoring and consulting, [scheudule an apointment.](https
 
 Learning to spell things with the Talon alphabet commands is a good way to start learning Talon.  By the end of this tutorial, it's important to know one voice command: the `help alphabet` command, to bring up the Talon alphabet popup window. With that  command, you can  look up every other letter command. To close this popup, you say `help close`.
 
+<table>
+<thead><tr><th colspan="2" id="user-letter-list">user.letter list</th></tr></thead><tbody>
+<tr>
+<td><em>description</em> : The spoken phonetic alphabet</td>
+</tr>
+<tr>
+<td>air</td>
+<td>a</td>
+</tr>
+<tr>
+<td>bat</td>
+<td>b</td>
+</tr>
+<tr>
+<td>cap</td>
+<td>c</td>
+</tr>
+<tr>
+<td>drum</td>
+<td>d</td>
+</tr>
+<tr>
+<td>each</td>
+<td>e</td>
+</tr>
+<tr>
+<td>fine</td>
+<td>f</td>
+</tr>
+<tr>
+<td>gust</td>
+<td>g</td>
+</tr>
+<tr>
+<td>harp</td>
+<td>h</td>
+</tr>
+<tr>
+<td>sit</td>
+<td>i</td>
+</tr>
+<tr>
+<td>jury</td>
+<td>j</td>
+</tr>
+<tr>
+<td>crunch</td>
+<td>k</td>
+</tr>
+<tr>
+<td>look</td>
+<td>l</td>
+</tr>
+<tr>
+<td>made</td>
+<td>m</td>
+</tr>
+<tr>
+<td>near</td>
+<td>n</td>
+</tr>
+<tr>
+<td>odd</td>
+<td>o</td>
+</tr>
+<tr>
+<td>pit</td>
+<td>p</td>
+</tr>
+<tr>
+<td>quench</td>
+<td>q</td>
+</tr>
+<tr>
+<td>red</td>
+<td>r</td>
+</tr>
+<tr>
+<td>sun</td>
+<td>s</td>
+</tr>
+<tr>
+<td>trap</td>
+<td>t</td>
+</tr>
+<tr>
+<td>urge</td>
+<td>u</td>
+</tr>
+<tr>
+<td>vest</td>
+<td>v</td>
+</tr>
+<tr>
+<td>whale</td>
+<td>w</td>
+</tr>
+<tr>
+<td>plex</td>
+<td>x</td>
+</tr>
+<tr>
+<td>yank</td>
+<td>y</td>
+</tr>
+<tr>
+<td>zip</td>
+<td>z</td>
+</tr>
+</tbody></table>
+
 
 Additionally, the `help special keys` command will bring up a menu of other keyboard keys which include the **space** and **delete** keys so you can look up those commands.
+
+<table>
+<thead><tr><th colspan="2" id="user-special-key-list">user.special_key list</th></tr></thead><tbody>
+<tr>
+<td><em>description</em> : All special keys</td>
+</tr>
+<tr>
+<td>end</td>
+<td>end</td>
+</tr>
+<tr>
+<td>enter</td>
+<td>enter</td>
+</tr>
+<tr>
+<td>escape</td>
+<td>escape</td>
+</tr>
+<tr>
+<td>home</td>
+<td>home</td>
+</tr>
+<tr>
+<td>insert</td>
+<td>insert</td>
+</tr>
+<tr>
+<td>pagedown</td>
+<td>pagedown</td>
+</tr>
+<tr>
+<td>pageup</td>
+<td>pageup</td>
+</tr>
+<tr>
+<td>space</td>
+<td>space</td>
+</tr>
+<tr>
+<td>tab</td>
+<td>tab</td>
+</tr>
+<tr>
+<td>delete</td>
+<td>backspace</td>
+</tr>
+<tr>
+<td>forward delete</td>
+<td>delete</td>
+</tr>
+<tr>
+<td>page up</td>
+<td>pageup</td>
+</tr>
+<tr>
+<td>page down</td>
+<td>pagedown</td>
+</tr>
+<tr>
+<td>menu key</td>
+<td>menu</td>
+</tr>
+<tr>
+<td>print screen</td>
+<td>printscr</td>
+</tr>
+</tbody></table>
 
 Open any text editing program you want to do this tutorial.  Any editor will work. Get rid of the draft editor with the command **draft hide**. 
 
