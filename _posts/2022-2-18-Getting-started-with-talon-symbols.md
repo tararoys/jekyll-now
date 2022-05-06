@@ -26,15 +26,7 @@ This tutorial works best if you have a textarea to type into. You can do this tu
 
 The most important aspect of this walkthrough is to learn where to look up the commands for symbols.  There are two places these can be looked up.  The `help symbols` menu lists commands for individual characters.  The `help context symbols` menu lists common combinations of symbols.
 
-![help symbols menu page 1](/assets/2022_04_30T21_19_15__Notepad.png)
-![help symbols menu page 2](/assets/2022_04_30T21_19_41__Notepad.png)
-![help symbols menu page 3](/assets/2022_04_30T21_19_57__Notepad.png)
-![help symbols menu page 4](/assets/2022_04_30T21_22_14__Notepad.png)
-
-![help context symbols](/assets/2022_05_01T06_30_19__Notepad.png)
-![help contact symbols](/assets/2022_05_01T06_31_32__Notepad.png)
-![help context symbols](/assets/2022_05_01T06_32_35__Notepad.png)
-![help context symbols](/assets/2022_05_01T06_33_23__Notepad.png)
+You can see a full list of the symbols on the [help symbols](#help-symbols-menu) menu and the [help context symbols menu](#help-context-symbols-menu) at the bottom of this tutorial.  
 # English Puncutation Characters  
 
 Let's start with English punctuation characters. See what happens when you say `period` `comma` `exclamation point` `question` `colon` `semicolon`  into a textarea. 
@@ -167,4 +159,431 @@ Say `select all` `delete` to delete what was just typed.
 Congrats!  If you have been using the Talon draft window, you can close it with the command `draft hide`.  You now know how to press all the symbol keys on a standard United States keyboard, how to access the `help symbols` menu to look up symbols, and how to access the `help context symbols` menu to to look up common symbol combinations.  
 
 Congratulate yourself on finishing this walkthrough! 
+
+## Help Symbols Menu
+
+This is the information that appears on the help symbils menu.  It represents voice commands for every symbol on the qwerty keyboard.
+
+<table>
+<thead><tr><th colspan="2" id="user-symbol-key-list">user.symbol-key list</th></tr></thead><tbody>
+<tr>
+<td>description : All symbols from the keyboard</td>
+</tr>
+<tr>
+<td>dot</td>
+<td>.</td>
+</tr>
+<tr>
+<td>point</td>
+<td>.</td>
+</tr>
+<tr>
+<td>quote</td>
+<td>'</td>
+</tr>
+<tr>
+<td>apostrophe</td>
+<td>'</td>
+</tr>
+<tr>
+<td>L square</td>
+<td>[</td>
+</tr>
+<tr>
+<td>left square</td>
+<td>[</td>
+</tr>
+<tr>
+<td>square</td>
+<td>[</td>
+</tr>
+<tr>
+<td>R square</td>
+<td>]</td>
+</tr>
+<tr>
+<td>right square</td>
+<td>]</td>
+</tr>
+<tr>
+<td>slash</td>
+<td>/</td>
+</tr>
+<tr>
+<td>backslash</td>
+<td>\</td>
+</tr>
+<tr>
+<td>minus</td>
+<td>-</td>
+</tr>
+<tr>
+<td>dash</td>
+<td>-</td>
+</tr>
+<tr>
+<td>equals</td>
+<td>=</td>
+</tr>
+<tr>
+<td>plus</td>
+<td>+</td>
+</tr>
+<tr>
+<td>tilde</td>
+<td>~</td>
+</tr>
+<tr>
+<td>bang</td>
+<td>!</td>
+</tr>
+<tr>
+<td>down score</td>
+<td>-</td>
+</tr>
+<tr>
+<td>under score</td>
+<td>-</td>
+</tr>
+<tr>
+<td>paren</td>
+<td>(</td>
+</tr>
+<tr>
+<td>L paren</td>
+<td>(</td>
+</tr>
+<tr>
+<td>left paren</td>
+<td>(</td>
+</tr>
+<tr>
+<td>R paren</td>
+<td>)</td>
+</tr>
+<tr>
+<td>right paren</td>
+<td>)</td>
+</tr>
+<tr>
+<td>brace</td>
+<td>{</td>
+</tr>
+<tr>
+<td>left brace</td>
+<td>{</td>
+</tr>
+<tr>
+<td>R brace</td>
+<td>}</td>
+</tr>
+<tr>
+<td>right brace</td>
+<td>}</td>
+</tr>
+<tr>
+<td>angle</td>
+<td>&lt;</td>
+</tr>
+<tr>
+<td>left angle</td>
+<td>&lt;</td>
+</tr>
+<tr>
+<td>less than</td>
+<td>&lt;</td>
+</tr>
+<tr>
+<td>rangle</td>
+<td>&gt;</td>
+</tr>
+<tr>
+<td>R angle</td>
+<td>&gt;</td>
+</tr>
+<tr>
+<td>right angle</td>
+<td>&gt;</td>
+</tr>
+<tr>
+<td>greater than</td>
+<td>&gt;</td>
+</tr>
+<tr>
+<td>star</td>
+<td>*</td>
+</tr>
+<tr>
+<td>hash</td>
+<td>#</td>
+</tr>
+<tr>
+<td>percent</td>
+<td>%</td>
+</tr>
+<tr>
+<td>caret</td>
+<td>^</td>
+</tr>
+<tr>
+<td>amper</td>
+<td>&amp;</td>
+</tr>
+<tr>
+<td>pipe</td>
+<td> | </td>
+</tr>
+<tr>
+<td>dubquote</td>
+<td>"</td>
+</tr>
+<tr>
+<td>double quote</td>
+<td>"</td>
+</tr>
+<tr>
+<td>dollar</td>
+<td>$</td>
+</tr>
+<tr>
+<td>pound</td>
+<td>£</td>
+</tr>
+<tr>
+<td>`</td>
+<td>`</td>
+</tr>
+<tr>
+<td>,</td>
+<td>,</td>
+</tr>
+<tr>
+<td>back tick</td>
+<td>`</td>
+</tr>
+<tr>
+<td>grave</td>
+<td>`</td>
+</tr>
+<tr>
+<td>comma</td>
+<td>,</td>
+</tr>
+<tr>
+<td>period</td>
+<td>.</td>
+</tr>
+<tr>
+<td>full stop</td>
+<td>.</td>
+</tr>
+<tr>
+<td>semicolon</td>
+<td>;</td>
+</tr>
+<tr>
+<td>colon</td>
+<td>:</td>
+</tr>
+<tr>
+<td>forward slash</td>
+<td>/</td>
+</tr>
+<tr>
+<td>question mark</td>
+<td>?</td>
+</tr>
+<tr>
+<td>exclamation mark</td>
+<td>!</td>
+</tr>
+<tr>
+<td>exclamation point</td>
+<td>!</td>
+</tr>
+<tr>
+<td>asterisk</td>
+<td>*</td>
+</tr>
+<tr>
+<td>hash sign</td>
+<td>#</td>
+</tr>
+<tr>
+<td>number sign</td>
+<td>#</td>
+</tr>
+<tr>
+<td>percent sign</td>
+<td>%</td>
+</tr>
+<tr>
+<td>at sign</td>
+<td>@</td>
+</tr>
+<tr>
+<td>and sign</td>
+<td>&amp;</td>
+</tr>
+<tr>
+<td>ampersand</td>
+<td>&amp;</td>
+</tr>
+<tr>
+<td>dollar sign</td>
+<td>$</td>
+</tr>
+<tr>
+<td>pound sign</td>
+<td>£</td>
+</tr>
+</tbody></table>
+
+## Help Context Symbols menu
+
+This is the information that appears on the 'help context symbols' menu.  It represents a grab-bag of useful commands having to do with symbols. 
+
+<table>
+<thead><tr><th colspan="2" id="Symbols">Symbols</th></tr></thead><tbody>
+<tr>
+<td>question [mark]</td>
+<td>Insert "?". </td>
+</tr>
+<tr>
+<td>(downscore  |  underscore)</td>
+<td>Insert "-". </td>
+</tr>
+<tr>
+<td>double dash</td>
+<td>Insert "--". </td>
+</tr>
+<tr>
+<td>(bracket  |  brack  |  left bracket)</td>
+<td>Insert "{". </td>
+</tr>
+<tr>
+<td>(rbrack  |  are bracket  |  right bracket)</td>
+<td>Insert "}". </td>
+</tr>
+<tr>
+<td>triple quote</td>
+<td>Insert "'''". </td>
+</tr>
+<tr>
+<td>(triple grave  |  triple back tick  |  gravy)</td>
+<td>Insert "```". </td>
+</tr>
+<tr>
+<td>(dot dot  |  dotdot)</td>
+<td>Insert "..". </td>
+</tr>
+<tr>
+<td>ellipses</td>
+<td>Insert "...". </td>
+</tr>
+<tr>
+<td>(comma and  |  spamma)</td>
+<td>Insert ", ". </td>
+</tr>
+<tr>
+<td>plus</td>
+<td>Insert "+". </td>
+</tr>
+<tr>
+<td>arrow</td>
+<td>Insert "-&gt;". </td>
+</tr>
+<tr>
+<td>dub arrow</td>
+<td>Insert "=&gt;". </td>
+</tr>
+<tr>
+<td>new line</td>
+<td>Insert "\n". </td>
+</tr>
+<tr>
+<td>carriage return</td>
+<td>Insert "\r". </td>
+</tr>
+<tr>
+<td>line feed</td>
+<td>Insert "\r\n". </td>
+</tr>
+<tr>
+<td>empty dubstring</td>
+<td>Insert """". Press left. </td>
+</tr>
+<tr>
+<td>empty escaped (dubstring | dub quotes)</td>
+<td>Insert "\"\"". Press left. Press left. </td>
+</tr>
+<tr>
+<td>empty string</td>
+<td>Insert "''". Press left. </td>
+</tr>
+<tr>
+<td>empty escaped string</td>
+<td>Insert "\'\'". Press left. Press left. </td>
+</tr>
+<tr>
+<td>(inside parens  |  args)</td>
+<td>Insert "()". Press left. </td>
+</tr>
+<tr>
+<td>inside (squares  |  square brackets  |  list)</td>
+<td>Insert "[]". Press left. </td>
+</tr>
+<tr>
+<td>inside (bracket  |  braces)</td>
+<td>Insert "{}". Press left. </td>
+</tr>
+<tr>
+<td>inside percent</td>
+<td>Insert "%%". Press left. </td>
+</tr>
+<tr>
+<td>inside (quotes  |  string)</td>
+<td>Insert "''". Press left. </td>
+</tr>
+<tr>
+<td>inside (double quotes  |  dubquotes)</td>
+<td>Insert """". Press left. </td>
+</tr>
+<tr>
+<td>inside (graves  |  back ticks)</td>
+<td>Insert "``". Press left. </td>
+</tr>
+<tr>
+<td>angle that</td>
+<td>Let &lt;text&gt; be the selected text. Pastes text and preserves clipboard. </td>
+</tr>
+<tr>
+<td>(square  |  square bracket) that</td>
+<td>Let &lt;text&gt; be the selected text. Pastes text and preserves clipboard. </td>
+</tr>
+<tr>
+<td>(bracket  |  brace) that</td>
+<td>Let &lt;text&gt; be the selected text. Pastes text and preserves clipboard. </td>
+</tr>
+<tr>
+<td>(parens  |  args) that</td>
+<td>Let &lt;text&gt; be the selected text. Pastes text and preserves clipboard. </td>
+</tr>
+<tr>
+<td>percent that</td>
+<td>Let &lt;text&gt; be the selected text. Pastes text and preserves clipboard. </td>
+</tr>
+<tr>
+<td>quote that</td>
+<td>Let &lt;text&gt; be the selected text. Pastes text and preserves clipboard. </td>
+</tr>
+<tr>
+<td>(double quote  |  dubquote) that</td>
+<td>Let &lt;text&gt; be the selected text. Pastes text and preserves clipboard. </td>
+</tr>
+<tr>
+<td>(grave  |  back tick) that</td>
+<td>Let &lt;text&gt; be the selected text. Pastes text and preserves clipboard. </td>
+</tr>
+</tbody></table>
 
