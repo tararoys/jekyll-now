@@ -6,7 +6,7 @@ title: Help Alphabet
 #   Help Alphabet
 
 
-[  Talon sleep.](https://youtu.be/gIP-I3MBMbo&t=-1677868443s)
+[  `Talon sleep`.](https://youtu.be/gIP-I3MBMbo&t=-1677868443s)
 [  Voice control safety note:](https://youtu.be/gIP-I3MBMbo&t=4s)
 [  if I put your Talon to sleep,](https://youtu.be/gIP-I3MBMbo&t=7s)
 [  then a video just successfully gave your computer orders.](https://youtu.be/gIP-I3MBMbo&t=9s)
