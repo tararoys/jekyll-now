@@ -5,6 +5,8 @@ title: Help Alphabet
 
 #   Help Alphabet
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gIP-I3MBMbo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 [  `Talon sleep`.](https://youtu.be/gIP-I3MBMbo&t=-1677868443s)
 [  Voice control safety note:](https://youtu.be/gIP-I3MBMbo&t=4s)
