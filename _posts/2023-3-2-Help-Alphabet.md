@@ -28,6 +28,7 @@ title: Help Alphabet
 
  - [  The Talon phonetic alphabet is for pressing letter keys](https://youtu.be/gIP-I3MBMbo&t=47s)
  - [  pressing keyboard shortcuts and for spelling out words letter by letter](https://youtu.be/gIP-I3MBMbo&t=52s)
+ 
 [  The voice command `help close` closes the menu again](https://youtu.be/gIP-I3MBMbo&t=56s)
 
 [  Ataraxy consulting presents `help close`](https://youtu.be/gIP-I3MBMbo&t=60s)
