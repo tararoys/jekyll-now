@@ -63,6 +63,17 @@ canvas {
 }
 
   </style>
+	</head>
+<body>
+<main>
+  <video id="video" playsinline hidden></video>
+  <button id="access">Access Camera</button>
+  <div onclick="downloadCanvasAsImage();"><canvas id="canvas"  hidden></canvas></d>
+  <div id="buttons">
+  </div>
+</main>
+  </body>
+	
 <script>
 const video = document.getElementById("video");
 const buffer = document.createElement("canvas");
@@ -216,15 +227,6 @@ var datename = yyyy+ '-' + month + '-' + dd+  '-' + ss + '-'+ ss + '_';
 
 
   </script>
-  <
-  </head>
-<body>
-<main>
-  <video id="video" playsinline hidden></video>
-  <button id="access">Access Camera</button>
-  <div onclick="downloadCanvasAsImage();"><canvas id="canvas"  hidden></canvas></d>
-  <div id="buttons">
-  </div>
-</main>
-  </body>
+  
+  
 </html>
