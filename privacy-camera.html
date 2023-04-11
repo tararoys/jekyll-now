@@ -1,0 +1,230 @@
+<html>
+  <script src="https://webrtc.github.io/adapter/adapter-latest.js"></script>
+<script src="https://rawgit.com/patriciogonzalezvivo/glslCanvas/master/dist/GlslCanvas.js"></script>
+<head>
+
+  <style>
+    main {
+  align-items: center;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  width: 100vw;
+}
+
+#canvas,
+#video,
+#buttons { 
+  display: none; 
+}
+
+button {
+  color: #558;
+  cursor: pointer;
+  border: 0.3em solid #558;
+  font-weight: bold;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 0.35em 1em;
+  transition: 0.2s;
+}
+
+button:hover,
+button:active {
+  background: #558;
+  box-shadow: 0 0 3px #000;
+  color: #fff;
+}
+
+#canvas,
+#buttons {
+  float: left;
+}
+
+#buttons {
+  max-width: 400px;
+}
+
+#buttons button {
+  display: block;
+  margin: 10px 0 0 10px;
+  text-align: center;
+  width: 200px;
+}
+
+#access {
+  display: block;
+  font-size: 1.5em;
+}
+
+canvas {
+  height: auto;
+  max-width: 400px;
+}
+
+  </style>
+<script>
+const video = document.getElementById("video");
+const buffer = document.createElement("canvas");
+const canvas = document.getElementById("canvas");
+let glslCanvas;
+let url = '';
+
+
+let fragColor = `gl_FragColor = vec4(color, 1.0);`;
+var last_accel = Date.now();
+
+function getAccel() {
+  DeviceMotionEvent.requestPermission().then((response) => {
+    if (response == "granted") {
+      console.log("accelerometer permission granted");
+      // Do stuff here
+
+      window.addEventListener("devicemotion", (event) => {
+        //console.log(Date.now() + " " + event.acceleration.x);
+        if (
+          event.acceleration.x > 1.0||
+          event.acceleration.y > 1.0 ||
+          event.acceleration.z > 2.0
+        ) {
+          canvas.style.display = "none";
+          last_accel = Date.now();
+        } else {
+          if (Date.now() - last_accel > 500) {
+            canvas.style.display = "block";
+          }
+        }
+      });
+    }
+  });
+}
+
+function init() {
+  getAccel();
+  window.navigator.mediaDevices
+    .getUserMedia({
+      audio: false,
+      video: {
+        facingMode: "environment"
+      }
+    })
+    .then(setup)
+    .catch((err) => console.log("There was an error 😱", err));
+}
+
+function setup(stream) {
+  canvas.style.display = "block";
+  document.getElementById("access").style.display = "none";
+  document.getElementById("buttons").style.display = "block";
+
+  video.srcObject = stream;
+  video.play();
+
+  window.devicePixelRatio = 1;
+  update();
+}
+
+function render() {
+  buffer.width = video.videoWidth;
+  buffer.height = video.videoHeight;
+  buffer.getContext("2d").drawImage(video, 0, 0);
+
+  canvas.width = buffer.width;
+  canvas.height = buffer.height;
+  url= canvas.toDataURL('image/png');
+
+
+  if (!glslCanvas) {
+    glslCanvas = new GlslCanvas(canvas);
+    update();
+  }
+
+  var dataURL = buffer.toDataURL();
+  buffer
+    .getContext("2d")
+    .drawImage(video, buffer.width * 0.01, buffer.height * 0.01);
+  var dataURL2 = buffer.toDataURL();
+  glslCanvas.setUniform("u_texture", dataURL);
+  glslCanvas.setUniform("u_texture_2", dataURL2);
+  window.requestAnimationFrame(render);
+}
+
+function update() {
+  const vertexShader = `
+    #ifdef GL_ES
+    precision mediump float;
+    #endif
+    uniform sampler2D u_texture;
+    uniform sampler2D u_texture_2;
+    uniform vec2 u_resolution;
+    uniform float u_time;
+    void main() {
+      vec2 st = gl_FragCoord.xy / u_resolution.xy;
+      float x = gl_FragCoord.x;
+      float y = gl_FragCoord.y;
+      vec3 color = texture2D(u_texture, st).rgb;
+      vec3 color_2 = texture2D(u_texture_2, st).rgb;
+      if (step(.05, (color_2.r - color.r)) == 0.0){
+          gl_FragColor = vec4(vec3(1.0), 1);
+} else{
+          gl_FragColor = vec4(vec3(0.0),1);
+
+    }
+    }
+  `;
+
+  if (glslCanvas) glslCanvas.load(vertexShader);
+}
+
+function toggle() {
+  fragColor = this.getAttribute("data-shader");
+  update();
+}
+
+document.getElementById("access").addEventListener("click", init);
+video.addEventListener("canplay", render);
+
+[...document.getElementById("buttons").children].forEach((button) => {
+  button.addEventListener("click", toggle);
+});
+
+window[addEventListener? 'addEventListener' : 'attachEvent'](addEventListener ? 'load' : 'onload', init)
+
+function downloadCanvasAsImage(){
+    console.log('clicked');
+	let downloadLink = document.createElement('a');
+  
+var today = new Date();
+var dd = String(today.getDate()).padStart(2, '0');
+var month = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
+var yyyy = String(today.getFullYear());
+var hh= String(today.getHours()).padStart(2, '0'); //time is UTC I assume
+var mm= String(today.getMinutes()).padStart(2, '0'); //timr is UTC I assume
+var ss= String(today.getSeconds()).padStart(2, '0');
+var datename = yyyy+ '-' + month + '-' + dd+  '-' + ss + '-'+ ss + '_';
+	downloadLink.setAttribute('download', datename+'CanvasAsImage.png');
+	let canvas = document.getElementById('canvas');
+  console.log('clicked2');
+  /*
+  //let dataURL = canvas.toDataURL('image/png');
+  //let url = dataURL.replace(/^data:image\/png/,'data:application/octet-stream');
+  */
+	downloadLink.setAttribute('href',url);
+	downloadLink.click();
+  
+}
+
+
+  </script>
+  <
+  </head>
+<body>
+<main>
+  <video id="video" playsinline hidden></video>
+  <button id="access">Access Camera</button>
+  <div onclick="downloadCanvasAsImage();"><canvas id="canvas"  hidden></canvas></d>
+  <div id="buttons">
+  </div>
+</main>
+  </body>
+</html>
