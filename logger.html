@@ -1,0 +1,32 @@
+<html>
+<head>
+<script>
+window.addEventListener("load", function () {
+  var editbox = document.getElementById("elm_editable");
+
+  editbox.addEventListener("input", (e) => {
+    // and here is how to detect the enter key
+    var last_character = e.currentTarget.innerText.charAt(
+      e.currentTarget.innerText.length - 1
+    );
+    if ("." === last_character || '?' === last_character || "!" === last_character) {
+      e.target.removeAttribute("contenteditable");
+      var para = document.createElement("p");
+      para.contentEditable = "true";
+      editbox.appendChild(para);
+      para.focus();
+    }
+  });
+});
+</script>
+</head>
+<body>
+
+<a onclick="this.href='data:text/html;charset=UTF-8,'+encodeURIComponent(document.documentElement.outerHTML)" href="#" download="page.html">Download</a>
+<div  id="elm_editable">
+    <p class="box" contenteditable="true" id="editable">
+        text
+    </p>
+</div>
+</body>
+</html>
