@@ -22,8 +22,8 @@ of information you'll want to
 sign up for to troublshoot this
 setup:
 
-[The Talon slack for Talon troubleshooting](https://talonvoice.com/chat)
-[The NVDA forum and mailing list for NVDA troubleshooting](https://nvda.groups.io/g/nvda)
+- [The Talon slack for Talon troubleshooting](https://talonvoice.com/chat)
+- [The NVDA forum and mailing list for NVDA troubleshooting](https://nvda.groups.io/g/nvda)
 
 The other main sorce of info is [me (Tara Roys)] 
 and to access that, it's $25 per hour to pick my 
@@ -33,4 +33,13 @@ if I actually have to program somethig myself.
 (I hate programming, but can occasionally be 
 bribed to do it.) 
 
+here is my post to the NVDA group 
+duscssing hos i linked NVDA and Talon
+together: https://nvda.groups.io/g/nvda/message/101788
+
+and here is a documrnt i forgot i had written
+about exactly how to nake Talon 
+and NVDA work together
+
+https://github.com/tararoys/NVDA-Talon/blob/main/README.md
 
